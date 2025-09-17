@@ -87,9 +87,3 @@ This project is open-source and available under the MIT License.
 🤝 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-yaml
-Copy code
-
----
-
-Would you like me to **generate the actual `README.md` file** for you right now so you can just commit it to your repo?
